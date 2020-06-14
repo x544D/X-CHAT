@@ -106,6 +106,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="sqlDile.sql" />
     <Content Include="Techniques_utilisees.txt" />
     <None Include="bin\Debug\disconnect.png" />
     <None Include="bin\Debug\close.png" />
